@@ -5,4 +5,4 @@ About the project: Project to understand the Object oriented programming concept
 
 Instructions to run on your system:
 Step 1:Make sure java is installed on your system.
-Step 2:Clone the project and run it on your system.
+- Step 2:Clone the project and run it on your system.
