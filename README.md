@@ -1,7 +1,7 @@
 # Bank-application
 
 About the project: 
-- Project to understand the Object oriented programming concepts.This is a command line based project.It gives two banks options and various functionalities with it such as balance checking,withdraw money,deposit money,calculate interest on current balance.
+- Project to understand the Object oriented programming concepts.It gives two banks options and various functionalities with it such as balance checking,withdraw money,deposit money,calculate interest on current balance.
 
 
 Instructions to run on your system:
